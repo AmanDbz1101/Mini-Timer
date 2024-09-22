@@ -1,0 +1,41 @@
+body{
+    margin: 24px;
+}
+
+.timer{
+    text-align: center;
+    padding: 30px;
+    background-color: #dddddd;
+    margin-inline: 20%;
+    border-radius: 20px;
+}
+.timer_part{
+    font-size: 50px;
+    background-color: white;
+    padding-inline: 30px;
+    border-radius: 20px;
+}
+
+.time_choose{
+    margin: 20px;
+    font-size: 50px;
+}
+
+.seconds_choose{
+    height:50px;
+}
+
+.button{
+    margin: 20px;
+
+    text-align: center;
+}
+
+#timer_btn,#reset_btn{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 75px;
+    border-radius: 50px;
+    margin-inline: 20px;
+}
